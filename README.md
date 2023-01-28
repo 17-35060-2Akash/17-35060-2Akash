@@ -105,5 +105,9 @@ I think I've the ability of pursuing new experiences and adapting quick, conscie
 
 
 <br /><br />
+<div>
 ![snake gif](https://github.com/17-35060-2Akash/17-35060-2Akash/blob/output/github-contribution-grid-snake.gif)
+</div>
+
+<br /><br />
 
