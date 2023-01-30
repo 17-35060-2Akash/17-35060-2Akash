@@ -29,6 +29,8 @@ I think I've the ability of pursuing new experiences and adapting quick, conscie
 * ⚡  **I'm Iron Man :anger:**.
 
 <br/>
+<a href="https://www.github.com/17-35060-2Akash" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/17-35060-2Akash?logo=github&style=for-the-badge&color=ef4444&labelColor=831843" /></a>
 
 ### Skills
 
@@ -72,7 +74,8 @@ I think I've the ability of pursuing new experiences and adapting quick, conscie
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Nasin Ayenul Akash#5872" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </a> <a href="https://www.facebook.com/nasin.akash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </a> <a href="https://www.github.com/17-35060-2Akash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /> </a> <a href="http://www.instagram.com/rome_frank/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </a> <a href="https://www.linkedin.com/in/nasin-ayenul-akash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </a></p>
+<p align="left"> <a href="https://discord.com/users/Nasin Ayenul Akash#5872" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </a> <a href="https://www.facebook.com/nasin.akash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </a> <a href="https://www.github.com/17-35060-2Akash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /> </a> <a href="http://www.instagram.com/rome_frank/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </a> <a href="https://www.linkedin.com/in/nasin-ayenul-akash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </a>
+</p>
 
 
 
@@ -102,6 +105,14 @@ I think I've the ability of pursuing new experiences and adapting quick, conscie
 ![snake svg](https://github.com/17-35060-2Akash/17-35060-2Akash/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div width="100%" align="center">
+ 
+<h2 align="center">Trophies</h2>
+ 
+<p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17-35060-2akash" alt="17-35060-2akash" /></a> </p>
+ 
+ </div>
 <br/>
 
 <h2 align="center">Top Repositories</h2>
