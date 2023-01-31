@@ -112,6 +112,8 @@ src="https://img.shields.io/github/followers/17-35060-2Akash?logo=github&style=f
  
 <p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17-35060-2akash" alt="17-35060-2akash" /></a> </p>
  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=17-35060-2akash&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
  </div>
 <br/>
 
