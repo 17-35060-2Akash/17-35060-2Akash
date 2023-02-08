@@ -6,7 +6,7 @@ Hey There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 <br/> This is Nasin Ayenul Akash.
 ==========================================================================================================================================
 
-Full Stack Developer  .  MERN Stack Developer  .  Software Engineer 
+Front-end Developer  .  MERN Stack Developer  .  Software Engineer 
 ==================================================================
 
 
