@@ -23,14 +23,14 @@ I think I've the ability of pursuing new experiences and adapting quick, conscie
 * 🖥️  Checkout my [Portfolio](http://serene-pasca-71aca3.netlify.app/).
 * ✉️  You can contact me at [na.akash715@gmail.com](mailto:na.akash715@gmail.com).
 * 🚀  I'm currently working on AAK TELE-SCIENCE, INC. California USA Remotely.
-* 💬   Ask me about **React.js, JavaScript, MongoDB etc.**
+* 💬   Ask me about **React.js, JavaScript, TypeScript, MongoDB etc.**
 * 🧠  I've started to learn **Redux, Next.js, TypeScript** etc.
 * 🔭   All of my [Projects](http://serene-pasca-71aca3.netlify.app/allprojects) are available here.
 * ⚡  **I'm Iron Man :anger:**.
 
 <br/>
 <a href="https://www.github.com/17-35060-2Akash" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/17-35060-2Akash?logo=github&style=for-the-badge&color=ef4444&labelColor=831843" /></a>
+src="https://img.shields.io/github/followers/17-35060-2Akash?logo=github&style=for-the-badge&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
 
 ### Skills
 
