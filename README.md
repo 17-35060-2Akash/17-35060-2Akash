@@ -23,8 +23,7 @@ I think I've the ability of pursuing new experiences and adapting quick, conscie
 * 🖥️  Checkout my [Portfolio](https://nasinayenulakash.netlify.app/).
 * ✉️  You can contact me at [na.akash715@gmail.com](mailto:na.akash715@gmail.com).
 * 🚀  I'm currently working on AAK TELE-SCIENCE, INC. California USA Remotely.
-* 💬   Ask me about **React.js, JavaScript, TypeScript, MongoDB etc.**
-* 🧠  I've started to learn **Redux, Next.js, TypeScript** etc.
+* 🧠   Ask me about **React.js, JavaScript, TypeScript, MongoDB, Atomic Design, Hooks etc.**
 * 🔭   All of my [Projects](http://serene-pasca-71aca3.netlify.app/allprojects) are available here.
 * ⚡  **I'm Iron Man :anger:**.
 
