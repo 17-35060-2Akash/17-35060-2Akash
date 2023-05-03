@@ -10,7 +10,7 @@ Front-end Developer  .  MERN Stack Developer  .  Software Engineer
 ==================================================================
 
 
-A young and creative web developer who loves challenges. I currently focus on Full Stack Development for rapid and reliable systems to ensure quicker deployments. I graduated from American International University Bangladesh honored by a BSc degree in the CS program in 2022. Learning and trying out new things, are my passion since boyhood and maybe it'll stay as I breathe.
+A sharp and creative Full Stack Web Developer who loves challenges. I currently focus on MERN Stack for rapid and reliable systems to ensure quicker deployments. I graduated from American International University Bangladesh honored by a BSc degree in the CS program in 2022. Learning and trying out new things, are my passion since boyhood and maybe it'll stay as I breathe.
 
 I think I've the ability of pursuing new experiences and adapting quick, conscientious desire towards creative deeds and decision making ability in critical situations. I'm Ambivert and have a good sense of humor. I like to tryout critical problems and solving by even thinking out of the box with a positive attitude. I don't believe in luck. I'm Hardworking and punctual because other things hamper without these two.
 <br/><br/>
