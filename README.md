@@ -1,5 +1,4 @@
-![MasterHead]
-(https://i.ibb.co/yN9kLXh/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif)
+![MasterHead](https://i.ibb.co/yN9kLXh/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif)
 
 <img align="right" alt="error solved" width=25% src="https://www.freeiconspng.com/thumbs/github-icon/github-icon-9.png" >
 
